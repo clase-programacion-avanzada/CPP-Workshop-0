@@ -77,7 +77,9 @@ struct NumberList {
 NumberList generateNumberListWithRandomNumbers(int size, int min, int max) {
     NumberList result;
     
-    //Acá se debe completar el código
+    for (int i = 0; i < size; i++) {
+        result.add(rand() % (max - min + 1) + min);
+    }
 
     return result;
 }
