@@ -1,14 +1,16 @@
 
 # Taller de Estructuras y Funciones en C++
 
-  
+
+
+
 
 En este taller es obligatorio el uso de estructuras y funciones. Debe usar headers para evitar que el código se vea muy extenso, y ***no puede usar `cin` o `cout` en ninguna parte del código que no sea el archivo `main.cpp`.***
 
   
 Se recomienda que use la estructura `NumberList` para el desarrollo de este taller.
 
-## **Estructura de Archivo  NumberList.h**: 
+## **Enunciado**: 
 Para implementar la funcionalidad de listas de números en C++, es necesario crear el archivo de encabezado `NumberList.h`. A continuación, se describe cada parte del archivo. Puede ir copiando y pegando cada una de las partes, hasta tener el archivo completado. 
 
 ### **Definición de Encabezado**  
@@ -279,12 +281,11 @@ El método `toString` devuelve una representación en formato de cadena de la li
 
 Estas líneas cierran el bloque de definición del archivo de encabezado.
 
-## Desarrollo del Programa
+## Calificación
 En este taller es obligatorio el uso de estructuras y funciones.
 
 Debe usar headers para evitar que el código se vea muy extenso, y no puede usar cin o cout en ninguna parte del código que no sea el archivo main.cpp.
   
-
 ### Operaciones Disponibles
 Su programa debe hacer lo siguiente, a través de un menú:
   
@@ -364,3 +365,15 @@ Su programa debe hacer lo siguiente, a través de un menú:
     1 2 1
 
     ```
+## Recursos en línea
+
+- [cpp Datatypes](https://www.geeksforgeeks.org/cpp-data-types/) [Artículo]
+- [C++ Header Files: A Pillar of Efficient Coding](https://www.simplilearn.com/tutorials/cpp-tutorial/guide-to-understand-cpp-header-files) [Artículo]
+- [Structures in cpp](https://www.geeksforgeeks.org/structures-in-cpp/) [Artículo]
+- [Functions in cpp](https://www.geeksforgeeks.org/functions-in-cpp/) [Artículo]
+- [C++ Structures for beginners (explained in 30 minutes)](https://www.youtube.com/watch?v=9j5KkOC_goQ) [Video]
+- [C++ arrays explained 🚗](https://www.youtube.com/watch?v=QFrJQq6Iox8) [Video]
+- [DATA STRUCTURES - How to work with arrays? (for beginners)](https://www.youtube.com/watch?v=T76E09hnEuo) [Video]
+- [💻MATRICES en PROGRAMACIÓN ¿Qué son y cómo funcionan? 💻 ](https://www.youtube.com/watch?v=twRXsDm2FUo) [Video]
+- [35. Programaciòn en C++ || Matrices](https://www.youtube.com/watch?v=7LMAZimcgZ8) [Video]
+- [Bot de chatgpt para que hagan preguntas](https://chatgpt.com/share/87f28d74-ffcb-4d9a-b322-94ba4b8c739c) [Herramients]
