@@ -376,4 +376,6 @@ Su programa debe hacer lo siguiente, a través de un menú:
 - [DATA STRUCTURES - How to work with arrays? (for beginners)](https://www.youtube.com/watch?v=T76E09hnEuo) [Video]
 - [💻MATRICES en PROGRAMACIÓN ¿Qué son y cómo funcionan? 💻 ](https://www.youtube.com/watch?v=twRXsDm2FUo) [Video]
 - [35. Programaciòn en C++ || Matrices](https://www.youtube.com/watch?v=7LMAZimcgZ8) [Video]
-- [Bot de chatgpt para que hagan preguntas](https://chatgpt.com/share/87f28d74-ffcb-4d9a-b322-94ba4b8c739c) [Herramients]
+- [Bot de chatgpt para que hagan preguntas](https://chatgpt.com/share/87f28d74-ffcb-4d9a-b322-94ba4b8c739c) [Herramienta]
+- [Slides vistas e  n clase](https://   livejaverianaedu.sharepoint.com/:b:/s/ProgramacinAvanzada2430/Ef0DYdKDijhOsEJifWHcBrIBuyYCDK5Gww12quOkJ8AcdA?e=Jb01RJ) [Slides]
+- [Installing C++ in Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp) [Tutorial]
