@@ -77,7 +77,7 @@ struct NumberMatrix {
 
     NumberMatrix copy() {
         NumberMatrix other;
-        for (int i = 0; i < other.rowSize; i++) {
+        for (int i = 0; i < this.rowSize; i++) {
             NumberList row = rows[i].copy();
         }
         rowSize = other.rowSize;
